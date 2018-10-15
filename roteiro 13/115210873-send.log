@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-02-20T14:10:30.652-0300</date>
+  <logger>JOSE GLAUBER BRAZ DE OLIVEIRA</logger>
+  <level>FINE</level>
+  <message>File 115210873-JOSE GLAUBER BRAZ DE OLIVEIRA.zip was received. It was sent by JOSE GLAUBER BRAZ DE OLIVEIRA from IP 150.165.74.134</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-02-21T17:27:31.954-0300</date>
+  <logger>JOSE GLAUBER BRAZ DE OLIVEIRA</logger>
+  <level>FINE</level>
+  <message>File 115210873-JOSE GLAUBER BRAZ DE OLIVEIRA.zip was received. It was sent by JOSE GLAUBER BRAZ DE OLIVEIRA from IP 150.165.74.132</message>
+</record>
